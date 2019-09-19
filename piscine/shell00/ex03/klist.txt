@@ -1,0 +1,8 @@
+Credentials cache: API:C9F5A444-3310-4B6A-ACEB-450627578F39
+        Principal: jfeuilla@42.FR
+
+  Issued                Expires               Principal
+Aug 26 13:23:10 2019  Sep  2 13:23:10 2019  krbtgt/42.FR@42.FR
+Aug 26 13:23:11 2019  Sep  2 13:23:10 2019  ldap/ldap-proxy.42.fr@42.FR
+Aug 26 13:23:11 2019  Sep  2 13:23:10 2019  HTTP/student-storage-2.42.fr@42.FR
+Aug 26 13:51:32 2019  Sep  2 13:23:10 2019  host/vgs-fn1.42.fr@42.FR
